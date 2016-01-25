@@ -1,0 +1,1 @@
+Cecic est le fichier README.txt de l'exercice 2 de GitHub
